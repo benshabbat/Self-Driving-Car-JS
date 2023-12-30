@@ -14,5 +14,6 @@ class Car {
       this.width,
       this.height
     );
+    ctx.fill();
   }
 }
