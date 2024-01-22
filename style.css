@@ -6,4 +6,6 @@ body{
 }
 #myCanvas{
     background: lightgray;
+    width: 200;
+    height: 12v;
 }
