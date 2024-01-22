@@ -6,7 +6,7 @@ class Car {
     this.height = height;
     
     this.controls = new Controls();
-
+  }
   draw(ctx) {
     ctx.beginPath();
     ctx.rect(
